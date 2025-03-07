@@ -1,4 +1,4 @@
-#import "../template.typ": *
+#import "template.typ": *
 
 #show: screenplay.with(
   title: "A REAL PAIN",
