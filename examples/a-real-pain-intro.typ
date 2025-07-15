@@ -36,8 +36,9 @@
   He is on his phone, leaving a message for someone.
 ]
 
-#dialogue("DAVID")[
-  Hey Benji, it's me. I'm just leaving my apartment. Remember we gotta be there three hours early. Just ring me when you get this.
+#dialogue_block[
+  #character("DAVID")
+  #line[Hey Benji, it's me. I'm just leaving my apartment. Remember we gotta be there three hours early. Just ring me when you get this.]
 ]
 
 #scene("EXT. BQE - DAY")
@@ -52,8 +53,9 @@
   David is in the back seat, harried and leaving a series of messages:
 ]
 
-#dialogue("DAVID")[
-  Hey Benji, I hope you left already. I'm stuck in a little traffic on the BQE in case you can avoid it. Just ring me when you get this.
+#dialogue_block[
+  #character("DAVID")
+  #line[Hey Benji, I hope you left already. I'm stuck in a little traffic on the BQE in case you can avoid it. Just ring me when you get this.]
 ]
 
 #pagebreak()
@@ -62,16 +64,18 @@
   ANOTHER MESSAGE:
 ]
 
-#dialogue("DAVID")[
-  Benji, it's me. Good news, traffic just cleared up, in case you were worried. Anyway, ring me when you get this.
+#dialogue_block[
+  #character("DAVID")
+  #line[Benji, it's me. Good news, traffic just cleared up, in case you were worried. Anyway, ring me when you get this.]
 ]
 
 #action[
   AND ANOTHER:
 ]
 
-#dialogue("DAVID")[
-  Yo, Benji, it's me. I'm sorry I'm leaving so many messages. You can disregard them cause I'll be there soon and I can't wait to see you. And I will not leave you another message.
+#dialogue_block[
+  #character("DAVID")
+  #line[Yo, Benji, it's me. I'm sorry I'm leaving so many messages. You can disregard them cause I'll be there soon and I can't wait to see you. And I will not leave you another message.]
 ]
 
 #scene("INT. JFK AIRPORT - DAY")
@@ -80,8 +84,9 @@
   David arrives at the airport, leaving another message as he heads toward a check-in kiosk—
 ]
 
-#dialogue("DAVID")[
-  Hey Benji, I just got to the airport. I really hope you left already or are on your way. Just ring me when you get this.
+#dialogue_block[
+  #character("DAVID")
+  #line[Hey Benji, I just got to the airport. I really hope you left already or are on your way. Just ring me when you get this.]
 ]
 
 #action[
@@ -92,18 +97,23 @@
   Benji approaches from behind. He's carrying a huge purple hiking backpack.
 ]
 
-#dialogue("BENJI")[
-  Dude.
+#dialogue_block[
+  #character("BENJI")
+  #line[Dude.]
 ]
 
-#dialogue("DAVID")[
-  Benji! Yo.
+#dialogue_block[
+  #character("DAVID")
+  #line[Benji! Yo.]
 ]
 
-#dialogue("BENJI")[
-  What's up cuz!
+#dialogue_block[
+  #character("BENJI")
+  #line[What's up cuz!]
 ]
 
-#dialogue("DAVID")[
-  (Hugging him) Come here. It's so good to see you.
+#dialogue_block[
+  #character("DAVID")
+  #parenthetical("hugging him")
+  #line[Come here. It's so good to see you.]
 ]
