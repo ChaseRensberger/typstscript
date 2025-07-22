@@ -64,3 +64,7 @@ typst compile --font-path ./fonts my-script.typ
 - Courier Prime
 - US Letter paper format with 1-inch margins
 
+## Contributing
+
+Issues and pull requests are always more than welcome.
+
