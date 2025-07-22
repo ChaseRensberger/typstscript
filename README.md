@@ -1,5 +1,9 @@
 # typstscript
 
+![Screenplay Preview](examples/a-real-pain/a-real-pain-preview.png)
+
+[![Go Version](https://img.shields.io/badge/go-%3E%3D1.19-blue)](https://golang.org/)
+
 A CLI tool for creating Typst screenplay projects.
 
 ## Who is this for?
